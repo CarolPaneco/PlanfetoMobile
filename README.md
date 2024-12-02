@@ -24,4 +24,4 @@ A aplicação **Promoções da Semana** oferece aos usuários uma maneira práti
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/promocoes-da-semana.git
+   git clone https://github.com/CarolPaneco/PlanfetoMobile.git
